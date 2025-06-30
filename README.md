@@ -1,6 +1,8 @@
 Search_Engine_LLM
 =================
 
+APP LINK -> https://searchenginellm1.streamlit.app/
+
 This is a Streamlit-based AI-powered chatbot that integrates with LangChain and uses Groq's Llama3-8b-8192 model to search and respond using live data from the web. It fetches results from Tavily Search, Wikipedia, and Arxiv.
 
 📚 Features
